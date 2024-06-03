@@ -1,2 +1,2 @@
-This file is creating to test the branch checkout.
+This file is creating to test the branch checkout. This chnqages are doing to make merge conflict.
 
